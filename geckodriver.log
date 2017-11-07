@@ -1,0 +1,355 @@
+1509820654523	geckodriver	INFO	geckodriver 0.19.0
+1509820654637	geckodriver	INFO	Listening on 127.0.0.1:59838
+1509820660633	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.hwHHgjU82TPk"
+1509820662422	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509820663107	Marionette	INFO	Enabled via --marionette
+2017-11-05 02:37:46.453 plugin-container[76863:5856748] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 02:37:46.454 plugin-container[76863:5856748] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa403, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509820669154	Marionette	INFO	Listening on port 59875
+1509820669711	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509820669746	Marionette	DEBUG	Register listener.js for window 2147483649
+1509820706876	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509820707758	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509820707759	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509820709048	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509820709514	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509820712036	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509820712682	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509820712682	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509820713223	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/uas/consumer-email-challenge"
+1509820713303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509820713379	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/uas/consumer-email-challenge"
+1509821383871	geckodriver	INFO	geckodriver 0.19.0
+1509821383875	geckodriver	INFO	Listening on 127.0.0.1:60976
+1509821388212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.Z7GlrU9JMWeZ"
+1509821390522	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509821390995	Marionette	INFO	Enabled via --marionette
+2017-11-05 02:49:52.756 plugin-container[83658:5877922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 02:49:52.757 plugin-container[83658:5877922] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509821394249	Marionette	INFO	Listening on port 60984
+1509821394302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509821394333	Marionette	DEBUG	Register listener.js for window 2147483649
+1509821459544	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509821460428	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509821460428	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509821461284	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509821461864	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509821467035	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509821468319	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509821468320	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509821468673	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509821470403	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509821473348	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509821479471	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509821480715	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509821480753	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509821481125	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509821481126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509821481126	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1509821481903	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821481909	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821659002	geckodriver	INFO	geckodriver 0.19.0
+1509821659030	geckodriver	INFO	Listening on 127.0.0.1:61691
+1509821661274	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.xtZuxtl2QzKl"
+1509821662438	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509821662769	Marionette	INFO	Enabled via --marionette
+2017-11-05 02:54:24.523 plugin-container[86131:5885948] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 02:54:24.524 plugin-container[86131:5885948] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509821664907	Marionette	INFO	Listening on port 61700
+1509821665016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509821665046	Marionette	DEBUG	Register listener.js for window 2147483649
+1509821689336	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509821690102	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509821690103	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static-exp2.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509821691026	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509821691494	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509821696675	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509821697961	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509821697962	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509821699019	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509821699814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509821703606	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509821711394	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509821712304	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509821712319	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509821712563	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509821712564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509821712564	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1509821713098	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821713104	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821847556	geckodriver	INFO	geckodriver 0.19.0
+1509821847574	geckodriver	INFO	Listening on 127.0.0.1:62228
+1509821852878	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.d6EylarxDSSp"
+1509821854126	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509821854522	Marionette	INFO	Enabled via --marionette
+2017-11-05 02:57:36.206 plugin-container[87933:5891260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 02:57:36.207 plugin-container[87933:5891260] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509821857157	Marionette	INFO	Listening on port 62245
+1509821857253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509821857280	Marionette	DEBUG	Register listener.js for window 2147483649
+1509821913436	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509821914210	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509821914210	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509821915022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509821915615	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509821920805	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509821922249	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509821922250	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509821922597	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509821923508	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509821927303	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509821937837	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509821938868	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509821938883	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509821939168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509821939168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509821939168	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1509821939556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821939563	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509821947379	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://static.licdn.com/sc/p/com.linkedin.lighthouse-frontend%3Alighthouse-frontend-static-content%2B1.89.316/f/%2Flighthouse-frontend%2Fconcat%2Fsearch-v3-js_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fsearch-nav-app_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fglobal-nav-app_en_US.js, line 5413: TypeError: c is undefined
+1509822052451	geckodriver	INFO	geckodriver 0.19.0
+1509822052476	geckodriver	INFO	Listening on 127.0.0.1:62784
+1509822052708	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.yM7cqGT4sEHg"
+1509822053839	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509822054186	Marionette	INFO	Enabled via --marionette
+2017-11-05 03:00:55.832 plugin-container[89947:5897985] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:00:55.833 plugin-container[89947:5897985] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509822056630	Marionette	INFO	Listening on port 62795
+1509822056714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509822056743	Marionette	DEBUG	Register listener.js for window 2147483649
+1509822094595	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509822095446	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509822095446	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static-exp2.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509822096589	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509822097037	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509822102206	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509822103484	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509822103485	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509822104577	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509822105127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509822109085	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509822143750	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509822144634	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509822144646	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509822144916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509822144916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509822144916	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1509822145426	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509822145432	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: curContainer.frame.document.documentElement is null
+Full stack: getPageSource@chrome://marionette/content/listener.js:1298:3
+dispatch/</req<@chrome://marionette/content/listener.js:517:22
+TaskImpl_run@resource://gre/modules/Task.jsm:331:42
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+dispatch/<@chrome://marionette/content/listener.js:515:15
+
+*************************
+1509822382255	geckodriver	INFO	geckodriver 0.19.0
+1509822382271	geckodriver	INFO	Listening on 127.0.0.1:63460
+1509822387812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.QhveUqu0XTl8"
+1509822389094	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509822389472	Marionette	INFO	Enabled via --marionette
+2017-11-05 03:06:31.426 plugin-container[92983:5907153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa237, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:06:31.427 plugin-container[92983:5907153] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa503, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509822392133	Marionette	INFO	Listening on port 63469
+1509822392218	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509822392245	Marionette	DEBUG	Register listener.js for window 2147483649
+1509822415165	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509822415930	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509822415930	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509822416763	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509822417368	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509822422667	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509822424203	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509822424204	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509822424539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509822425448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509822429122	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509822435365	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509822436256	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509822436269	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509822436540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509822436540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509822436540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1509822437071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509822437077	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509822445058	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://static.licdn.com/sc/p/com.linkedin.lighthouse-frontend%3Alighthouse-frontend-static-content%2B1.89.316/f/%2Flighthouse-frontend%2Fconcat%2Fsearch-v3-js_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fsearch-nav-app_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fglobal-nav-app_en_US.js, line 5413: TypeError: c is undefined
+1509822452395	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822459751	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822467154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822474528	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822481908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822489285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822496623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822503957	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822511312	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822518697	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822526109	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822533460	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822540799	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822548142	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822555496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822562860	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822570184	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822577535	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822584943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822592284	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822599623	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822606998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822614347	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822621731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822629053	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822636428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822643934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822651350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822658696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822666033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822673381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822680750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822688236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822695574	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822702934	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822710344	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822717695	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822725030	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509822732385	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823110866	geckodriver	INFO	geckodriver 0.19.0
+1509823110884	geckodriver	INFO	Listening on 127.0.0.1:64643
+1509823116131	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.XCw889ryNufS"
+1509823117862	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509823118200	Marionette	INFO	Enabled via --marionette
+2017-11-05 03:18:40.199 plugin-container[99478:5928784] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa037, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:18:40.200 plugin-container[99478:5928784] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509823121232	Marionette	INFO	Listening on port 64652
+1509823121396	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509823121427	Marionette	DEBUG	Register listener.js for window 2147483649
+1509823143359	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509823144053	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509823144054	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static-exp1.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509823145697	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509823146267	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509823151456	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509823152732	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509823152732	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509823153771	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509823154536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509823160146	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+1509823168361	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/feed/"
+1509823169364	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/feed/"
+1509823169380	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/feed/"
+1509823169637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483657"
+1509823169637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509823169637	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1509823170154	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509823170160	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/sales/contract-chooser?redirect=%2Fsales%2Fsearch%3Fkeywords%3DCEO%26facet%3DG%26facet%3DI%26facet%3DCS%26facet.G%3Dus%253A70%26facet.I%3D43%26facet.CS%3DD%26facet.CS%3DG%26count%3D25%26start%3D0%26updateHistory%3Dtrue%26searchHistoryId%3D2107126404%26trackingInfoJson.contextId%3D1809E16E40A8F114008596FB612B0000"
+1509823178132	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://static.licdn.com/sc/p/com.linkedin.lighthouse-frontend%3Alighthouse-frontend-static-content%2B1.89.316/f/%2Flighthouse-frontend%2Fconcat%2Fsearch-v3-js_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fsearch-nav-app_en_US.js,%2Flighthouse-frontend%2Fconcat%2Fglobal-nav-app_en_US.js, line 5413: TypeError: c is undefined
+1509823183564	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823189060	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823194597	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823200185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823205680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823211162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823216639	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823222111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823227610	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823233268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823234195	Marionette	DEBUG	Register listener.js for window 4294967297
+2017-11-05 03:20:34.261 plugin-container[709:5931867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:20:34.262 plugin-container[709:5931867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509823238760	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823244245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823249805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823255288	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823260786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823266338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823271805	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823277273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823282727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823288259	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823293764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823299232	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823304699	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823310196	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823315689	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823321258	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823326741	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823332216	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823337707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823343281	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823348762	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823354248	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823359735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823365215	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823370748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823376206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823381674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823387143	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823392707	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509823398198	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+2017-11-05 03:24:17.258 plugin-container[2702:5937432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:24:17.274 plugin-container[2702:5937432] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509823665867	geckodriver	INFO	geckodriver 0.19.0
+1509823665884	geckodriver	INFO	Listening on 127.0.0.1:49326
+1509823671123	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.8e0K8QlpCp6a"
+1509823672540	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509823672991	Marionette	INFO	Enabled via --marionette
+2017-11-05 03:27:54.665 plugin-container[4624:5943460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-05 03:27:54.680 plugin-container[4624:5943460] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa303, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+1509823675678	Marionette	INFO	Listening on port 49339
+1509823675720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509823675750	Marionette	DEBUG	Register listener.js for window 2147483649
+1509823688375	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509823689085	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509823689085	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript error: https://static.licdn.com/scds/concat/common/js?h=3kp2aedn5pmamdr4dk4n8atur-3ti5bgrnb6idjtk0w4chaigxe-5hqr1i1uoezoj0z1s5gcxojf2-71o37tcjwl0ishto9izvyml3i-3bbdjshpw5ov0rwa8xe08tp97-cayct4cirf7n0f9z1xsg84g0q-dktkawxk7k8pixuh5g8z5ku32-213zbp2wzp99lviwl8g2cvq6i-1lknwtftishpdmobzm413yc7u-bcxa0v9ke411pjpmz4s239f9b-2s77lcl0ztx2c5fzyqvglptj1-bn7x20my6ejwhlgl10oqmhgst-8h514j3fiwnzuwkt66sbxsu8f-di2z9sra5co9la7ogqyesywin, line 48: TypeError: c is null
+1509823689897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/"
+1509823690481	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/"
+1509823695712	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.linkedin.com/"
+1509823697140	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.linkedin.com/"
+1509823697140	Marionette	DEBUG	Received DOM event "unload" for "https://www.linkedin.com/"
+1509823697534	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509823698437	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.linkedin.com/feed/"
+1509823703375	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.linkedin.com/feed/"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509826606742	geckodriver	INFO	geckodriver 0.19.0
+1509826606906	geckodriver	INFO	Listening on 127.0.0.1:62703
+1509826612037	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-profile" "/var/folders/qw/98cvmjyj2d70tyt2jy4nzymc0000gn/T/rust_mozprofile.rqCDVS4imWe4"
+1509826613201	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509826613623	Marionette	INFO	Enabled via --marionette
